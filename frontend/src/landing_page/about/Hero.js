@@ -16,40 +16,43 @@ function Hero() {
         style={{ lineHeight: "1.8", fontSize: "1.2em" }}
       >
         <div className="col-6 p-5">
-          <p>
-            We kick-started operations on the 15th of August, 2010 with the goal
-            of breaking all barriers that traders and investors face in India in
-            terms of cost, support, and technology. We named the company
-            Zerodha, a combination of Zero and "Rodha", the Sanskrit word for
-            barrier.
-          </p>
-          <p>
-            Today, our disruptive pricing models and in-house technology have
-            made us the biggest stock broker in India.
-          </p>
-          <p>
-            Over 1+ Crore clients place millions of orders every day through our
-            powerful ecosystem of investment platforms, contributing over 15% of
-            all Indian retail trading volumes.
-          </p>
-        </div>
-        <div className="col-6 p-5">
-          <p>
-            In addition, we run a number of popular open online educational and
-            community initiatives to empower retail traders and investors.
-          </p>
-          <p>
-            <a href="" style={{ textDecoration: "none" }}>
-              Rainmatter
-            </a>
-            , our fintech fund and incubator, has invested in several fintech
-            startups with the goal of growing the Indian capital markets.
-          </p>
-          <p>
-            And yet, we are always up to something new every day. Catch up on
-            the latest updates on our blog or see what the media is saying about
-            us.
-          </p>
+        <p>
+        We kick-started operations on the 5th of June, 2018 with the goal of
+        breaking all barriers that urban fleets face in India in terms of
+        inefficiency, cost, and technology. We named the company
+        NeuroFleetX, a combination of "Neuro" for our AI-powered
+        intelligence, "Fleet" for the vehicles we optimize, and "X" for the
+        exponential efficiency we deliver.
+      </p>
+      <p>
+        Today, our predictive AI models and proprietary routing technology
+        have made us the leading platform for urban mobility optimization in
+        India.
+      </p>
+      <p>
+        Over 500+ partners rely on our intelligent ecosystem, optimizing
+        millions of kilometers daily and contributing to a significant
+        reduction in fuel consumption and delivery times across major
+        metropolitan areas.
+      </p>
+    </div>
+    <div className="col-6 p-5">
+      <p>
+        In addition, we run a number of open data initiatives and community
+        programs to promote sustainable and smarter urban transport.
+      </p>
+      <p>
+        <a href="" style={{ textDecoration: "none" }}>
+          UrbanShift Ventures
+        </a>
+        , our mobility-focused fund and incubator, has invested in several
+        smart city startups with the goal of building a more efficient and
+        sustainable urban future.
+      </p>
+      <p>
+        And yet, we are always innovating every day. Catch up on our latest
+        advancements on our blog or see what the media is saying about us.
+      </p>
         </div>
       </div>
     </div>

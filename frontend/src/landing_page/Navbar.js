@@ -40,16 +40,6 @@ function Navbar() {
                 </Link>
               </li>
               <li class="nav-item">
-                <Link class="nav-link active" to="/product">
-                  Product
-                </Link>
-              </li>
-              <li class="nav-item">
-                <Link class="nav-link active" to="/pricing">
-                  Pricing
-                </Link>
-              </li>
-              <li class="nav-item">
                 <Link class="nav-link active" to="/support">
                   Support
                 </Link>

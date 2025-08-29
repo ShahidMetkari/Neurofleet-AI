@@ -5,42 +5,32 @@ function Stats() {
     <div className="container p-3">
       <div className="row p-5">
         <div className="col-6 p-5">
-          <h1 className="fs-2 mb-5">Trust with confidence</h1>
-          <h2 className="fs-4">Customer-first always</h2>
-          <p className="text-muted">
-            That's why 1.3+ crore customers trust Zerodha with ₹3.5+ lakh crores
-            worth of equity investments.
-          </p>
-          <h2 className="fs-4">No spam or gimmicks</h2>
-          <p className="text-muted">
-            No gimmicks, spam, "gamification", or annoying push notifications.
-            High quality apps that you use at your pace, the way you like.
-          </p>
-          <h2 className="fs-4">The Zerodha universe</h2>
-          <p className="text-muted">
-            Not just an app, but a whole ecosystem. Our investments in 30+
-            fintech startups offer you tailored services specific to your needs.
-          </p>
-          <h2 className="fs-4">Do better with money</h2>
-          <p className="text-muted">
-            With initiatives like Nudge and Kill Switch, we don't just
-            facilitate transactions, but actively help you do better with your
-            money.
-          </p>
+        <h1 className="fs-2 mb-5">Trust with confidence</h1>
+      <h2 className="fs-4">Partner-first always</h2>
+      <p className="text-muted">
+        That's why 1,200+ partners trust NeuroFleetX with optimizing fleets
+        valued at over ₹15,000 crores.
+      </p>
+      <h2 className="fs-4">No distractions or data overload</h2>
+      <p className="text-muted">
+        No gimmicks, alert spam, "gamification" of driver stats, or
+        annoying push notifications. High-quality platforms that you use at
+        your pace, to get the insights you need.
+      </p>
+      <h2 className="fs-4">The NeuroFleetX Ecosystem</h2>
+      <p className="text-muted">
+        Not just an app, but a whole ecosystem. Our investments in 10+
+        mobility & logistics startups through UrbanShift Ventures offer you
+        tailored services specific to your operational needs.
+      </p>
+      <h2 className="fs-4">Drive smarter, not just further</h2>
+      <p className="text-muted">
+        With initiatives like RouteSense and EcoShift, we don't just
+        facilitate routing, but actively help your fleet perform better, save
+        fuel, and reduce its carbon footprint.
+      </p>
         </div>
-        <div className="col-6 p-5">
-          <img src="media/images/ecosystem.png" style={{ width: "90%" }} />
-          <div className="text-center">
-            <a href="" className="mx-5" style={{ textDecoration: "none" }}>
-              Explore our products{" "}
-              <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-            </a>
-            <a href="" style={{ textDecoration: "none" }}>
-              Try Kite demo{" "}
-              <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-            </a>
-          </div>
-        </div>
+        
       </div>
     </div>
   );

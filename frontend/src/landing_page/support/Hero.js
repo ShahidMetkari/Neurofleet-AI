@@ -15,15 +15,15 @@ function Hero() {
           <input placeholder="Eg. how do I activate F&O" />
           <br />
           <a href="">Track account opening</a>
+          <br/>
           <a href="">Track segment activation</a>
-          <a href="">Intraday margins</a>
-          <a href="">Kite user manual</a>
+      
         </div>
         <div className="col-6 p-3">
           <h1 className="fs-3">Featured</h1>
           <ol>
             <li>
-              <a href="">Current Takeovers and Delisting - January 2024</a>
+              <a href="">Current Takeovers and Delisting</a>
             </li>
             <li>
               <a href="">Latest Intraday leverages - MIS & CO</a>
